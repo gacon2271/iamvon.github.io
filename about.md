@@ -1,5 +1,11 @@
-# Hydejack
+---
+layout: about
+title: About
+menu: true
+order: 7
+---
 
+## Hydejack
 Hydejack is a complete, interactive, configureable, responsive, reactive, mobile-first, touch-enabled, animated, printable, tab-able, fast[^1], search engine-friendly and robust Jekyll theme that feels like a modern web app, while preserving what is great about *web pages*: Working URLs, hyperlinks, a working back button, a working refresh button and less than 50MB of JavaScript (tongue-in-cheek).
 
 It can be hosted on GitHub Pages, where it has support for categories and tags, math blocks via KaTeX,
@@ -7,12 +13,17 @@ comments via Disqus, multiple authors, a sidebar that turns into a drawer menu o
 
 The site works all the way down to IE10. It works in IE9 if you don't need fancy animations, and even IE5 if you don't need fancy anything. Rumor has it, you can even view it via [`lynx`](http://lynx.browser.org/).
 
-## Demo
-All that being said, I think it's best to [see it in action](https://qwtel.com/hydejack/).
+***
 
-## Download
 You can download the latest version of Hydejack on [GitHub](https://github.com/qwtel/hydejack/releases/tag/v6.0.0), or use the [gem-based theme](https://rubygems.org/gems/jekyll-theme-hydejack/versions/6.0.0).
-For further instructions, check out the [Documentation](https://qwtel.com/hydejack/docs/6.0.0/).
+For further instructions, check out the [Documentation]({{ site.baseurl }}{% link docs/6.0.0/index.md %}){:.heading data-flip="title"}.
 
-## Footnotes
+## Image Credit
+
+Sidebar (default)
+: [Napoleon Crossing the Alps ](https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps#/media/File:Jacques_Louis_David_-_Bonaparte_franchissant_le_Grand_Saint-Bernard,_20_mai_1800_-_Google_Art_Project.jpg)
+
+Sidebar (Documentation)
+: [Annie Spratt](https://unsplash.com/search/library?photo=lIWF2uHxs0Q)
+
 [^1]: Hydejack is fast in two different ways. Its *perceived speed* hides latency through a combination of animations and a complex pre-fetching logic. *Load speed* is achieved through inlining critical CSS and removing non-essential requests from the critical rendering path.
