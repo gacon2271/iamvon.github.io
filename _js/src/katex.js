@@ -1,5 +1,4 @@
-// Copyright (c) 2017 Florian Klampfer
-// Licensed under MIT
+
 
 /* eslint-disable no-param-reassign */
 
