@@ -8,6 +8,6 @@ description: >
   Mục 2
 
 # http://jsfiddle.net/LPxrT/
-image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
-color: '#268bd2'
+# image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
+# color: '#268bd2'
 ---
