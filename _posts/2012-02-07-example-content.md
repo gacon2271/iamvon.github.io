@@ -3,7 +3,7 @@ layout: post
 title: Example content
 tags: [muc2]
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Một bài viết trình bày về syntax HTML mà Blog hỗ trợ. Viết bằng ngôn ngữ Mark Down.
 author: von
 ---
 
