@@ -8,17 +8,16 @@ von:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-      Chào các bạn, mình là Von.Tên thật của mình là Phạm Minh Tuấn,hiện tại đang là 1 học sinh.
+      Chào các bạn, mình là Von. Tên thật của mình là Phạm Minh Tuấn, hiện tại đang là 1 học sinh.
       Chào mừng đến với blog của mình.
 
   # This photo will be used in the about section
   picture:  https://static.pexels.com/photos/34088/pexels-photo.jpg
-    #src:             //qwtel.com/assets/img/me.jpg
+    #src:             jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
    # srcset:
-     # 1x:            //qwtel.com/assets/img/me.jpg
-      #2x:            //qwtel.com/assets/img/me@2x.jpg
-
+     # 1x:            jpg
+      #2x:            
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
