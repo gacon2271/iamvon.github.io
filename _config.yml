@@ -6,11 +6,11 @@ title:               TEST BLOG
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages (and not using custom domains!)
-url:                https://el-rangxanh.github.io/testvonblog/
+url:                https://iamvon.github.io/
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /testvonblog
+baseurl:             /iamvon.github.io
 
 # A very short description  of your page
 #tagline:
@@ -21,8 +21,8 @@ description:         >
   This is Von's Blog. Welcome!
 # This should be the same author as first in `_data/authors.yml`
 author:
-  name:              Florian Klampfer
-  email:             f.klampfer@gmail.com
+  name:              iamvon
+  email:             phamtoanbai@gmail.com
 
 # Fallback image and color if not overwritten
 #image:               
