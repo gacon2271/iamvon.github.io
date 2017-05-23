@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Chuyện linh tinh
+title: Chuyện Linh Tinh
 slug: chuyenlinhtinh
 menu: true
 order: 5
