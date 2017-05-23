@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Công nghệ
+title: Công Nghệ
 slug: congnghe
 menu: true
 order: 3
