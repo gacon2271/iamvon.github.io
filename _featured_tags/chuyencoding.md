@@ -5,5 +5,5 @@ slug: chuyencoding
 menu: true
 order: 1
 description: >
-  Mục viết về coding, lập trình.
+  Mục viết về coding, lập trình,...
 ---
