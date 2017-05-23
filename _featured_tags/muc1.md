@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Mục 1
-slug: muc1
+title: Chuyện Coding
+slug: chuyencoding
 menu: true
 order: 1
 description: >
-  Mục 1
+  Mục viết về coding, lập trình.
 ---
