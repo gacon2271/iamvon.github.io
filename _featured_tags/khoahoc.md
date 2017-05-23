@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Khoa Học
+title: Khoa Học & Kỹ Thuật
 slug: khoahoc
 menu: true
 order: 2
